@@ -1,0 +1,44 @@
+id,name,kind,special,x,y
+tangier,Tangier,start,,95,70
+tunis,Tunis,red,,165,90
+j01,,junction,,194,97
+canary_islands,Canary Island,red,,40,108
+cairo,Cairo,start,,252,108
+j02,,junction,,93,109
+morocco,Morocco,red,,75,113
+tripoli,Tripoli,red,,180,120
+sahara,Sahara,red,,135,145
+sahara_trap,,dot,sahara,170,156
+egypt,Egypt,red,,240,165
+timbuktu,Timbuktu,red,,100,185
+suakin,Suakin,red,,286,187
+cape_verde,Cape Verde,red,,23,189
+ain_galaka,Ain Galaka,red,,178,190
+j03,,junction,,17,209
+j04,,junction,,84,212
+darfur,Darfur,red,,225,215
+sierra_leone,Sierra Leone,red,,40,225
+cape_guardafui,Cape Guardafui,red,,350,230
+j05,,junction,,175,237
+addis_abeba,Addis Abeba,red,,297,238
+gold_coast,Gold Coast,red,gold_coast,93,243
+bahr_el_gasal,Bahr el Gasal,red,,244,244
+slave_coast,Slave Coast,red,slave_coast,132,247
+j06,,junction,,132,269
+kandjama,Kandjama,red,,170,271
+lake_victoria,Lake Victoria,red,,270,272
+dar_es_salam,Dar es Salam,red,,291,307
+ocomba,Ocomba,red,,220,311
+congo,Congo,red,,163,323
+j07,,junction,,285,326
+st_helena,St Helena,red,st_helena,71,346
+mozambique,Mozambique,red,,294,352
+j08,,junction,,267,368
+tamatave,Tamatave,red,,339,369
+victoria_falls,Victoria Falls,red,,227,372
+j09,,junction,,261,376
+whalefish_bay,Whalefish Bay,red,,168,389
+dragon_mountain,Dragon Mountain,red,,247,404
+cape_st_marie,Cape St Marie,red,,308,413
+j10,,junction,,157,434
+cape_town,Cape Town,red,cape_town,186,449
